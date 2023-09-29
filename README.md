@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamChuahna
 - 👀 I’m interested in Gaming
-- 🌱 I’m currently learning MERN STA
+- 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on AMAZONE AND GOOGLE
 - 📫 How to reach me ...
 
